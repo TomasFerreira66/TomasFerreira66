@@ -27,3 +27,9 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/tom%C3%A1s-ferreira-891405236/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TomasFerreira66&" alt="TomasFerreira66" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TomasFerreira66" alt="TomasFerreira66" /></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFerreira66/TomasFerreira66/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFerreira66/TomasFerreira66/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TomasFerreira66/TomasFerreira66/output/github-snake.svg" />
+</picture>
