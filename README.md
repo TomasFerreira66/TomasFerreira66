@@ -1,4 +1,7 @@
 <h1 id="greeting">Hi, I'm Tomás</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hi_light.svg" />
+</picture>
 <p>Software Dev</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
@@ -34,14 +37,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/TomasFerreira66/TomasFerreira66/output/github-snake.svg" />
 </picture>
 
-<script>
-  const greetings = ["Hi", "Hello", "Hey", "Hola", "Bonjour", "Ciao", "Olá"];
-  let index = 0;
-
-  function changeGreeting() {
-    document.getElementById("greeting").innerHTML = `${greetings[index]}, I'm Tomás`;
-    index = (index + 1) % greetings.length;
-  }
-
-  setInterval(changeGreeting, 1000);
-</script>
