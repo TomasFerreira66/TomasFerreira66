@@ -24,7 +24,7 @@
 <ul>
 <li><a target="_blank" href="https://tomas-webfolio.vercel.app/">Here!</a></li>
 <h2>Lets connect!</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/tom%C3%A1s-ferreira-891405236/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/tom%C3%A1s-ferreira-891405236/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFerreira66/TomasFerreira66/output/github-snake-dark.svg" />
