@@ -22,7 +22,9 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
 <h2>Check out my webfolio!</h2>
 <ul>
-<li><a target="_blank" href="https://tomasff.dev/">Here!</a></li>
+<li><a href="https://tomasff.dev">
+  <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="just the message badge">
+</a></li>
 <h2>Lets connect!</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/tom%C3%A1s-ferreira-891405236/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
